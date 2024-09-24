@@ -1,0 +1,25 @@
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+input, button {
+  margin: 5px;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+.custom-delete-btn {
+  background-color: #ff5733; /* Custom red for delete button */
+  color: white;
+  border: none;
+}
+
+.custom-update-btn {
+  background-color: #28a745; /* Custom green for update button */
+  color: white;
+  border: none;
+}
+
